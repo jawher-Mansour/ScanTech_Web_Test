@@ -2,7 +2,7 @@ Build a stock management MERN Stack (MongoDB, Express JS, React-Redux, Node JS) 
 requirements:
 
 
-Manager
+**Manager**
 
 ❏ As a manager I can sign in.
 
@@ -16,7 +16,7 @@ Manager
 
 ❏ As a manager I can sign out.
 
-User
+**User**
 
 ❏ As a user I can sign in/up.
 
