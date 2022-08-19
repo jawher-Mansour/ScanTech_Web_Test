@@ -1,5 +1,4 @@
-Build a stock management MERN Stack (MongoDB, Express JS, React-Redux, Node JS) web application with the following
-requirements:
+Build a stock management using .NET & mongodb/MYSQL  web application with the following requirements:
 
 
 **Manager**
