@@ -51,24 +51,9 @@ A Login Page (Manager and User should login to the application to see the data)
 A Home Page (As a user or manager I can see Total Number of items, Only as a manager I can see total number of users )
 A Users Page (Only as a manager I can CRUD users)
 A Items Page (As a manager/user I can CRUD items)
-## Backend structure
-```
-.
-├── index.js
-├── src
-│ ├── controllers
-│ │ ├── AuthController.js
-│ │ └── ItemController.js
-│ ├── middlewares
-│ │ ├── multer.js
-│ │ └── verify-token.js
-│ ├── models
-│ │ ├── ItemModel.js
-│ │ └── UserModel.js
-│ └── routes
-│ ├── item.js
-│ └── auth.js
-├── uploads
-│ └── images.*
-└── package.json
-```
+## Technical Skills:
+* .Net Technologies:   .Net Framework 
+* Web Technologies:   ASP.NET, ASP, HTML5,jquery, Web-Services, ASP.NET Core
+* Databases:   MS SQL server 
+* Versioning & Continuous Integration Tools:  GitHub .
+
