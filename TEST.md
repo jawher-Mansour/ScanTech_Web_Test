@@ -1,4 +1,4 @@
-Build a stock management using .NET & mongodb/MYSQL  web application with the following requirements:
+Build a stock management using .NET & MYSQL  web application with the following requirements:
 
 
 **Manager**
